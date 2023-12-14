@@ -1,0 +1,20 @@
+.nav-bar{
+    background-color: var(--black);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+.nav-left{
+    color: white;
+}
+.nav-left-ul{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    list-style: none;
+}
+.nav-left-ul-li{
+    color: white;
+}
